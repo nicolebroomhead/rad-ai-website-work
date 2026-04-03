@@ -14,12 +14,12 @@ Please follow the URL listed for each page to review the full project.
 
 ### Main Pages
 
-- [Homepage](https://nicolebroomfield.github.io/rad-ai-website-work/index.html)
-- [About Rad AI](https://nicolebroomfield.github.io/rad-ai-website-work/about.html)
-- [Life at Rad AI](https://nicolebroomfield.github.io/rad-ai-website-work/life-at-rad-ai.html)
-- [Insights & Resources](https://nicolebroomfield.github.io/rad-ai-website-work/resources.html)
-- [Blog](https://nicolebroomfield.github.io/rad-ai-website-work/blog.html)
-- [News](https://nicolebroomfield.github.io/rad-ai-website-work/news.html)
+- [Homepage](https://nicolebroomhead.github.io/rad-ai-website-work/index.html)
+- [About Rad AI](https://nicolebroomhead.github.io/rad-ai-website-work/about.html)
+- [Life at Rad AI](https://nicolebroomhead.github.io/rad-ai-website-work/life-at-rad-ai.html)
+- [Insights & Resources](https://nicolebroomhead.github.io/rad-ai-website-work/resources.html)
+- [Blog](https://nicolebroomhead.github.io/rad-ai-website-work/blog.html)
+- [News](https://nicolebroomhead.github.io/rad-ai-website-work/news.html)
 
 ## My Involvement
 
@@ -32,7 +32,7 @@ Please follow the URL listed for each page to review the full project.
 - Art directed photography and video assets produced with external vendors
 
 **Copywriting & Messaging**
-- Wrote and refined original copy across all pages, balancing technical accuracy with accessibility for a broad healthcare audience
+- Wrote and refined original copy across all pages, balancing technical accuracy with accessibility for the radiology audience, as well as potential hires, media, and investors
 - Shaped brand voice and tone across the site
 
 **Interactivity & Webflow CMS**
