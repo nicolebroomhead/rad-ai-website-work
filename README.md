@@ -1,6 +1,6 @@
 # Rad AI Website — Selected Pages
 
-**Live Homepage Demo:** [View Homepage](https://nicolebroomhead.github.io/rad-ai-website-work/index.html)
+**Homepage:** [View Homepage](https://nicolebroomhead.github.io/rad-ai-website-work/index.html)
 
 ## About This Project
 
